@@ -6,7 +6,6 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://alicewonderland.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
