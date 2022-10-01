@@ -27,3 +27,8 @@
 - Place: Hydrabad, INDIA
 - Bio: Frontend Developer
 - GitHub: [Bubai91](https://github.com/Bubai91)
+
+#### Name: [Wahid Ari](https://github.com/wahid-ari)
+- Place: Surabaya, INDONESIA
+- Bio: Frontend Developer
+- GitHub: [wahid-ari](https://github.com/wahid-ari)
