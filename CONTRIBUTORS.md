@@ -1,4 +1,4 @@
-#### Name: [Rumi Khatun](https://github.com/Ayush05m)
+#### Name: [Ayush Mishra](https://github.com/Ayush05m)
 - Place: Bargarh, Odisha, INDIA
 - Bio: I'm a 1st year Student at NIT Raipur
 - GitHub: [Ayush05m](https://github.com/Ayush05m)
