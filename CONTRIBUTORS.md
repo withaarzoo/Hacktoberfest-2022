@@ -17,3 +17,8 @@
 - Place: Beldanga, WestBengal, INDIA
 - Bio: I'm software engineer of Adobe
 - GitHub: [Aarzoo40](https://github.com/Aarzoo40)
+
+#### Name: [Hayat Narina](GitHub link)
+- Place: Atlanta, Georgia, USA
+- Bio: Software engineer at meta
+- GitHub: [narina04](https://github.com/narina04)
