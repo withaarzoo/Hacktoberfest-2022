@@ -12,3 +12,8 @@
 - Place: Central Business District, Abuja, NIGERIA
 - Bio: I am a JavaScript Full-Stack Developer
 - GitHub: [mojeedkusimo](https://github.com/mojeedkusimo)
+
+#### Name: [Aarzoo](https://github.com/Aarzoo40)
+- Place: Beldanga, WestBengal, INDIA
+- Bio: I'm software engineer of Adobe
+- GitHub: [Aarzoo40](https://github.com/Aarzoo40)
