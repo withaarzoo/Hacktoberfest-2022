@@ -12,3 +12,23 @@
 - Place: Beldanga, WestBengal, INDIA
 - Bio: I'm Software Developer
 - GitHub: [KryPtoN](https://github.com/Kry9toN)
+
+#### Name: [Mojeed Kusimo](https://github.com/mojeedkusimo)
+- Place: Central Business District, Abuja, NIGERIA
+- Bio: I am a JavaScript Full-Stack Developer
+- GitHub: [mojeedkusimo](https://github.com/mojeedkusimo)
+
+#### Name: [Aarzoo](https://github.com/Aarzoo40)
+- Place: Beldanga, WestBengal, INDIA
+- Bio: I'm software engineer of Adobe
+- GitHub: [Aarzoo40](https://github.com/Aarzoo40)
+
+#### Name: [Hayat Narina](https://github.com/narina04)
+- Place: Atlanta, Georgia, USA
+- Bio: Software engineer at meta
+- GitHub: [narina04](https://github.com/narina04)
+
+#### Name: [Bubai Khan](https://github.com/Bubai91)
+- Place: Hydrabad, INDIA
+- Bio: Frontend Developer
+- GitHub: [Bubai91](https://github.com/Bubai91)
