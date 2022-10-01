@@ -18,7 +18,12 @@
 - Bio: I'm software engineer of Adobe
 - GitHub: [Aarzoo40](https://github.com/Aarzoo40)
 
-#### Name: [Hayat Narina](GitHub link)
+#### Name: [Hayat Narina](https://github.com/narina04)
 - Place: Atlanta, Georgia, USA
 - Bio: Software engineer at meta
 - GitHub: [narina04](https://github.com/narina04)
+
+#### Name: [Bubai Khan](https://github.com/Bubai91)
+- Place: Hydrabad, INDIA
+- Bio: Frontend Developer
+- GitHub: [Bubai91](https://github.com/Bubai91)
