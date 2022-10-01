@@ -7,3 +7,8 @@
 - Place: Beldanga, WestBengal, INDIA
 - Bio: I'm Full-Stack Developer
 - GitHub: [Rumi20](https://github.com/RUMI20)
+
+#### Name: [Mojeed Kusimo](https://github.com/mojeedkusimo)
+- Place: Central Business District, Abuja, NIGERIA
+- Bio: I am a JavaScript Full-Stack Developer
+- GitHub: [mojeedkusimo](https://github.com/mojeedkusimo)
