@@ -1,3 +1,8 @@
+#### Name: [Rumi Khatun](https://github.com/Ayush05m)
+- Place: Bargarh, Odisha, INDIA
+- Bio: I'm a 1st year Student at NIT Raipur
+- GitHub: [Ayush05m](https://github.com/Ayush05m)
+
 #### Name: [Nusrat Jahan](https://github.com/nusrat80)
 - Place: Kolkata, WestBengal, INDIA
 - Bio: I am a Software engine of meta
