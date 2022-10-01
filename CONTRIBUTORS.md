@@ -8,6 +8,11 @@
 - Bio: I'm Full-Stack Developer
 - GitHub: [Rumi20](https://github.com/RUMI20)
 
+#### Name: [KryPtoN](https://github.com/Kry9toN)
+- Place: Beldanga, WestBengal, INDIA
+- Bio: I'm Software Developer
+- GitHub: [KryPtoN](https://github.com/Kry9toN)
+
 #### Name: [Mojeed Kusimo](https://github.com/mojeedkusimo)
 - Place: Central Business District, Abuja, NIGERIA
 - Bio: I am a JavaScript Full-Stack Developer
