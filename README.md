@@ -33,8 +33,8 @@ git clone https://github.com/your-username/hacktoberfest.git
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
-* Commit and push
+* Make your changes (choose from any task below).
+* Commit and push.
 
 ```markdown
 git add .
