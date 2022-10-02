@@ -42,3 +42,8 @@
 - Place: Surabaya, INDONESIA
 - Bio: Frontend Developer
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
+
+#### Name: [Ashish Shukla](https://github.com/ashishshukla09)
+- Place: Kanpur,UP, INDIA
+- Bio: I'm a 1st year Student at Dr VSICS
+- GitHub: [Ashish Shukla](https://github.com/ashishshukla09)
