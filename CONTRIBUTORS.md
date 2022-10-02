@@ -42,3 +42,9 @@
 - Place: Surabaya, INDONESIA
 - Bio: Frontend Developer
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
+
+
+#### Name: [Anmol Kulshreshtha](https://github.com/anmolkulshrestha)
+- Place: Gwalior, INDIA
+- Bio: Second Year CS student (IIT VARANASI)
+- GitHub: [anmolkulshrestha](https://github.com/anmolkulshrestha)
