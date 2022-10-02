@@ -81,7 +81,7 @@ Your School
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [My Project](GitHub Link) Short Description 
 
 ### Profile Link
 
