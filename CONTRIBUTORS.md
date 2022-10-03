@@ -52,3 +52,8 @@
 - Place: New York, USA
 - Bio: Python, C# and GO Developer
 - GitHub: [xKomorebi](https://github.com/xKomorebi)
+
+#### Name: [Sumant Chaudhary](https://github.com/sumant7)
+- Place: Bokaro, Jharkhand, India
+- Bio: Javascript, C++, Web Developer
+- GitHub: [Sumant Chaudhary](https://github.com/sumant7)
