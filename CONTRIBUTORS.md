@@ -47,3 +47,8 @@
 - Place: Kanpur,UP, INDIA
 - Bio: I'm a 1st year Student at Dr VSICS
 - GitHub: [Ashish Shukla](https://github.com/ashishshukla09)
+
+#### Name: [xKomorebi](https://github.com/xKomorebi)
+- Place: New York, USA
+- Bio: Python, C# and GO Developer
+- GitHub: [xKomorebi](https://github.com/xKomorebi)
