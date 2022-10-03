@@ -44,7 +44,14 @@
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
 
 
+
 #### Name: [Anmol Kulshreshtha](https://github.com/anmolkulshrestha)
 - Place: Gwalior, INDIA
 - Bio: Second Year CS student (IIT VARANASI)
 - GitHub: [anmolkulshrestha](https://github.com/anmolkulshrestha)
+
+#### Name: [Ashish Shukla](https://github.com/ashishshukla09)
+- Place: Kanpur,UP, INDIA
+- Bio: I'm a 1st year Student at Dr VSICS
+- GitHub: [Ashish Shukla](https://github.com/ashishshukla09)
+
