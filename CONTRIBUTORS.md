@@ -57,3 +57,8 @@
 - Place: Bokaro, Jharkhand, India
 - Bio: Javascript, C++, Web Developer
 - GitHub: [Sumant Chaudhary](https://github.com/sumant7)
+
+#### Name: [Kritika Tripathi](https://github.com/KritikaTri)
+- Place: Deoria, Uttar Pradesh, India
+- Bio: Javascript, C++, Web Developer
+- GitHub: [KritikaTri](https://github.com/KritikaTri)
