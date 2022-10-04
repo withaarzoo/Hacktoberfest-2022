@@ -62,3 +62,8 @@
 - Place: Deoria, Uttar Pradesh, India
 - Bio: Javascript, C++, Web Developer
 - GitHub: [KritikaTri](https://github.com/KritikaTri)
+
+#### Name: [Md Manwar Hossain](https://github.com/Mdmanwar01)
+- Place : Phagwara, Punjab, India
+- Bio : Ethical Hacker, C, Python and Java Developer
+- Github : [Mdmanwar01](https://github.com/Mdmanwar01) 
