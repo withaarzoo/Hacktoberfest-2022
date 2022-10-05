@@ -75,5 +75,5 @@
 
 #### Name: [c1tiz3n](https://github.com/c1tiz3n)
 - Place: Midlands, England, UK
-- Bio: Rust, C#, 
+- Bio: Rust / C# Developer 
 - GitHub: [c1tiz3n](https://github.com/c1tiz3n)
