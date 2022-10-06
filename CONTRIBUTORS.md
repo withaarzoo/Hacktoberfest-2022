@@ -72,3 +72,8 @@
 - Place: Phagwara, Punjab, India
 - Bio: Web Developer , C , C++ , Java and Python Developer 
 - GitHub: [ReejoJoseph1244](https://github.com/ReejoJoseph1244)
+
+#### Name: [c1tiz3n](https://github.com/c1tiz3n)
+- Place: Midlands, England, UK
+- Bio: Rust / C# Developer 
+- GitHub: [c1tiz3n](https://github.com/c1tiz3n)
