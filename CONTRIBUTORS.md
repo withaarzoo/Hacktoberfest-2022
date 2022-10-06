@@ -33,6 +33,11 @@
 - Bio: Software engineer at meta
 - GitHub: [narina04](https://github.com/narina04)
 
+#### Name: [Polokghosh53](https://github.com/Polokghosh53)
+- Place: Kolkata, West Bengal, India
+- Bio: Student/Developer
+- GitHub: [Polokghosh53](https://github.com/Polokghosh53)
+
 #### Name: [Bubai Khan](https://github.com/Bubai91)
 - Place: Hydrabad, INDIA
 - Bio: Frontend Developer
