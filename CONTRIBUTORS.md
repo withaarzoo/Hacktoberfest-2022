@@ -77,3 +77,8 @@
 - Place: Midlands, England, UK
 - Bio: Rust / C# Developer 
 - GitHub: [c1tiz3n](https://github.com/c1tiz3n)
+
+#### Name: [Mehak](https://github.com/Mkdadwal)
+- Place: Hoshiarpur, Punjab, India
+- Bio: Android App developer,weeb developer
+- GitHub: [Mkdadwal](https://github.com/Mkdadwal)
