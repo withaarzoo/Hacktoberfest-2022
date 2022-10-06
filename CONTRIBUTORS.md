@@ -87,3 +87,8 @@
 - Place: Hoshiarpur, Punjab, India
 - Bio: Android App developer,weeb developer
 - GitHub: [Mkdadwal](https://github.com/Mkdadwal)
+
+#### Name: [Abhishek](https://github.com/Abhishek-5854)
+- Place: Goregaon, Mumbai, India
+- Bio: IOT developer,Web developer
+- GitHub: [Abhishek-5854](https://github.com/Abhishek-5854)
