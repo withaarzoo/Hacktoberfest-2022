@@ -92,3 +92,8 @@
 - Place: Goregaon, Mumbai, India
 - Bio: IOT developer,Web developer
 - GitHub: [Abhishek-5854](https://github.com/Abhishek-5854)
+
+#### Name: [Vanya](https://github.com/vanya31)
+- Place: Delhi, India
+- Bio: Web developer
+- GitHub: [vanya31](https://github.com/vanya31)
